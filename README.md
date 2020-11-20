@@ -4,8 +4,8 @@ An adventure game using python, by making decisions and choosing the fate of the
 
 ## Installation
 
-- **Download** `zip` file to local computer.
-- Open the **terminal** and locate the zip file.
+- **Download** `py` file to local computer.
+- Open the **terminal** and locate the py file.
 - Call `adventure_game_project.py` in the terminal.
 - In the terminal, follow along by making choices. Have fun!
 
